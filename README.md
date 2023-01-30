@@ -1,8 +1,6 @@
 ## 🤙🏼 Fala aí!
 
-Sou Guilherme, tenho 24 anos e aos finais de semana eu sou atleta caro. Apaixonado por futebol e qualquer esporte que esteja passando na TV.
-
-Sou formado em Educação Física e no momento estou em transição de carreira, migrando para a aréa Tech, sendo mais preciso, desenvolvedor de programa. Sou aluno na Cubos Academy e no curso com duração de mais 800h com aulas de Front-end, Back-end e Soft skills.
+Sou Guilherme, tenho 24 anos, sou formado em Educação Física e no momento estou em transição de carreira, migrando para a aréa Tech, sendo mais preciso, desenvolvedor de programa. Sou aluno na Cubos Academy e no curso com duração de mais 800h com aulas de Front-end, Back-end e Soft skills.
 
 ### 🤟🏼 Para me encontrar:
 
