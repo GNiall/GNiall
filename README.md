@@ -16,6 +16,6 @@ Sou Guilherme, aluno na Cubos Academy!
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GNiall&theme=dark)](https://github.com/GNiall/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GNiall&layout=compact)]([https://github.com/GNiall/github-readme-stats])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GNiall&layout=compact&theme=dark)]([https://github.com/GNiall/github-readme-stats])
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GNiall&show_icons=true&theme=dark)
