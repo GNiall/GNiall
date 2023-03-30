@@ -17,4 +17,4 @@ Sou Guilherme, tenho 24 anos, sou formado em Educação Física e no momento est
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GNiall&theme=dark)](https://github.com/GNiall/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GNiall&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GNiall&show_icons=true&theme=dark)
