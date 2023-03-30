@@ -4,6 +4,7 @@ Sou Guilherme, aluno na Cubos Academy!
 
 ### 🤟🏼 Para me encontrar:
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui.nesi/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gniall/)
 
@@ -18,8 +19,6 @@ Sou Guilherme, aluno na Cubos Academy!
 <br/>
 <br/>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GNiall&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GNiall&theme=dark)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GNiall&show_icons=true&theme=dark)
-  
-  ![Snake animation](https://github.com/GNiall/GNiall/blob/output/github-contribution-grid-snake.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GNiall&show_icons=true&theme=dark)
