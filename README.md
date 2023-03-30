@@ -1,6 +1,6 @@
 ## 🤙🏼 Fala aí!
 
-Sou Guilherme, tenho 24 anos, sou formado em Educação Física e no momento estou em transição de carreira, migrando para a aréa Tech, sendo mais preciso, desenvolvedor de programa. Sou aluno na Cubos Academy e no curso com duração de mais 800h com aulas de Front-end, Back-end e Soft skills.
+Sou Guilherme, aluno na Cubos Academy!
 
 ### 🤟🏼 Para me encontrar:
 
