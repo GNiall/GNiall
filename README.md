@@ -32,6 +32,8 @@ Sou Guilherme, aluno na Cubos Academy!
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GNiall&theme=dark)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GNiall&show_icons=true&theme=dark" />
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GNiall&show_icons=true&theme=dark)
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNiall&theme=dark" />
+</div>
