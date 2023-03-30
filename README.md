@@ -22,4 +22,4 @@ Sou Guilherme, aluno na Cubos Academy!
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GNiall&show_icons=true&theme=dark)
   
-  ![Snake animation](https://github.com/GNiall/GNiall/blob/ouyput/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GNiall/GNiall/blob/output/github-contribution-grid-snake.svg)
